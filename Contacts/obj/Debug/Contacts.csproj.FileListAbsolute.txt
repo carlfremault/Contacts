@@ -1,0 +1,94 @@
+G:\test\testVisualStudio2019\en attente\Contacts\Contacts\bin\Debug\Contacts.exe.config
+G:\test\testVisualStudio2019\en attente\Contacts\Contacts\bin\Debug\Contacts.exe
+G:\test\testVisualStudio2019\en attente\Contacts\Contacts\bin\Debug\Contacts.pdb
+G:\test\testVisualStudio2019\en attente\Contacts\Contacts\obj\Debug\Contacts.csprojAssemblyReference.cache
+G:\test\testVisualStudio2019\en attente\Contacts\Contacts\obj\Debug\Contacts.frmContacts.resources
+G:\test\testVisualStudio2019\en attente\Contacts\Contacts\obj\Debug\Contacts.Properties.Resources.resources
+G:\test\testVisualStudio2019\en attente\Contacts\Contacts\obj\Debug\Contacts.csproj.GenerateResource.cache
+G:\test\testVisualStudio2019\en attente\Contacts\Contacts\obj\Debug\Contacts.csproj.CoreCompileInputs.cache
+G:\test\testVisualStudio2019\en attente\Contacts\Contacts\obj\Debug\Contacts.exe
+G:\test\testVisualStudio2019\en attente\Contacts\Contacts\obj\Debug\Contacts.pdb
+G:\test\testVisualStudio2019\en attente\Contacts_v1\Contacts\bin\Debug\Contacts.exe.config
+G:\test\testVisualStudio2019\en attente\Contacts_v1\Contacts\bin\Debug\Contacts.exe
+G:\test\testVisualStudio2019\en attente\Contacts_v1\Contacts\bin\Debug\Contacts.pdb
+G:\test\testVisualStudio2019\en attente\Contacts_v1\Contacts\obj\Debug\Contacts.csprojAssemblyReference.cache
+G:\test\testVisualStudio2019\en attente\Contacts_v1\Contacts\obj\Debug\Contacts.frmContacts.resources
+G:\test\testVisualStudio2019\en attente\Contacts_v1\Contacts\obj\Debug\Contacts.Properties.Resources.resources
+G:\test\testVisualStudio2019\en attente\Contacts_v1\Contacts\obj\Debug\Contacts.csproj.GenerateResource.cache
+G:\test\testVisualStudio2019\en attente\Contacts_v1\Contacts\obj\Debug\Contacts.csproj.CoreCompileInputs.cache
+G:\test\testVisualStudio2019\en attente\Contacts_v1\Contacts\obj\Debug\Contacts.exe
+G:\test\testVisualStudio2019\en attente\Contacts_v1\Contacts\obj\Debug\Contacts.pdb
+G:\test\testVisualStudio2019\en attente\Contacts_v1 - Copie\Contacts\bin\Debug\Contacts.exe.config
+G:\test\testVisualStudio2019\en attente\Contacts_v1 - Copie\Contacts\bin\Debug\Contacts.exe
+G:\test\testVisualStudio2019\en attente\Contacts_v1 - Copie\Contacts\bin\Debug\Contacts.pdb
+G:\test\testVisualStudio2019\en attente\Contacts_v1 - Copie\Contacts\obj\Debug\Contacts.csprojAssemblyReference.cache
+G:\test\testVisualStudio2019\en attente\Contacts_v1 - Copie\Contacts\obj\Debug\Contacts.frmContacts.resources
+G:\test\testVisualStudio2019\en attente\Contacts_v1 - Copie\Contacts\obj\Debug\Contacts.Properties.Resources.resources
+G:\test\testVisualStudio2019\en attente\Contacts_v1 - Copie\Contacts\obj\Debug\Contacts.csproj.GenerateResource.cache
+G:\test\testVisualStudio2019\en attente\Contacts_v1 - Copie\Contacts\obj\Debug\Contacts.csproj.CoreCompileInputs.cache
+G:\test\testVisualStudio2019\en attente\Contacts_v1 - Copie\Contacts\obj\Debug\Contacts.exe
+G:\test\testVisualStudio2019\en attente\Contacts_v1 - Copie\Contacts\obj\Debug\Contacts.pdb
+G:\test\testVisualStudio2019\en attente\Contacts_v2 - Copie\Contacts\bin\Debug\Contacts.exe.config
+G:\test\testVisualStudio2019\en attente\Contacts_v2 - Copie\Contacts\bin\Debug\Contacts.exe
+G:\test\testVisualStudio2019\en attente\Contacts_v2 - Copie\Contacts\bin\Debug\Contacts.pdb
+G:\test\testVisualStudio2019\en attente\Contacts_v2 - Copie\Contacts\obj\Debug\Contacts.csprojAssemblyReference.cache
+G:\test\testVisualStudio2019\en attente\Contacts_v2 - Copie\Contacts\obj\Debug\Contacts.frmContacts.resources
+G:\test\testVisualStudio2019\en attente\Contacts_v2 - Copie\Contacts\obj\Debug\Contacts.Properties.Resources.resources
+G:\test\testVisualStudio2019\en attente\Contacts_v2 - Copie\Contacts\obj\Debug\Contacts.csproj.GenerateResource.cache
+G:\test\testVisualStudio2019\en attente\Contacts_v2 - Copie\Contacts\obj\Debug\Contacts.csproj.CoreCompileInputs.cache
+G:\test\testVisualStudio2019\en attente\Contacts_v2 - Copie\Contacts\obj\Debug\Contacts.exe
+G:\test\testVisualStudio2019\en attente\Contacts_v2 - Copie\Contacts\obj\Debug\Contacts.pdb
+G:\test\testVisualStudio2019\en attente\Contacts_v3 - Copie\Contacts\bin\Debug\Contacts.exe.config
+G:\test\testVisualStudio2019\en attente\Contacts_v3 - Copie\Contacts\bin\Debug\Contacts.exe
+G:\test\testVisualStudio2019\en attente\Contacts_v3 - Copie\Contacts\bin\Debug\Contacts.pdb
+G:\test\testVisualStudio2019\en attente\Contacts_v3 - Copie\Contacts\obj\Debug\Contacts.csprojAssemblyReference.cache
+G:\test\testVisualStudio2019\en attente\Contacts_v3 - Copie\Contacts\obj\Debug\Contacts.frmContacts.resources
+G:\test\testVisualStudio2019\en attente\Contacts_v3 - Copie\Contacts\obj\Debug\Contacts.Properties.Resources.resources
+G:\test\testVisualStudio2019\en attente\Contacts_v3 - Copie\Contacts\obj\Debug\Contacts.csproj.GenerateResource.cache
+G:\test\testVisualStudio2019\en attente\Contacts_v3 - Copie\Contacts\obj\Debug\Contacts.csproj.CoreCompileInputs.cache
+G:\test\testVisualStudio2019\en attente\Contacts_v3 - Copie\Contacts\obj\Debug\Contacts.exe
+G:\test\testVisualStudio2019\en attente\Contacts_v3 - Copie\Contacts\obj\Debug\Contacts.pdb
+G:\test\testVisualStudio2019\en attente\Contacts_v4 - Copie\Contacts\bin\Debug\Contacts.exe.config
+G:\test\testVisualStudio2019\en attente\Contacts_v4 - Copie\Contacts\bin\Debug\Contacts.exe
+G:\test\testVisualStudio2019\en attente\Contacts_v4 - Copie\Contacts\bin\Debug\Contacts.pdb
+G:\test\testVisualStudio2019\en attente\Contacts_v4 - Copie\Contacts\obj\Debug\Contacts.csprojAssemblyReference.cache
+G:\test\testVisualStudio2019\en attente\Contacts_v4 - Copie\Contacts\obj\Debug\Contacts.frmContacts.resources
+G:\test\testVisualStudio2019\en attente\Contacts_v4 - Copie\Contacts\obj\Debug\Contacts.Properties.Resources.resources
+G:\test\testVisualStudio2019\en attente\Contacts_v4 - Copie\Contacts\obj\Debug\Contacts.csproj.GenerateResource.cache
+G:\test\testVisualStudio2019\en attente\Contacts_v4 - Copie\Contacts\obj\Debug\Contacts.csproj.CoreCompileInputs.cache
+G:\test\testVisualStudio2019\en attente\Contacts_v4 - Copie\Contacts\obj\Debug\Contacts.exe
+G:\test\testVisualStudio2019\en attente\Contacts_v4 - Copie\Contacts\obj\Debug\Contacts.pdb
+G:\test\testVisualStudio2019\en attente\Contacts_v4 - Copie\Contacts\bin\Debug\Contacts.xml
+G:\test\testVisualStudio2019\en attente\_Contacts\Contacts_v4\Contacts\bin\Debug\Contacts.exe.config
+G:\test\testVisualStudio2019\en attente\_Contacts\Contacts_v4\Contacts\bin\Debug\Contacts.xml
+G:\test\testVisualStudio2019\en attente\_Contacts\Contacts_v4\Contacts\bin\Debug\Contacts.exe
+G:\test\testVisualStudio2019\en attente\_Contacts\Contacts_v4\Contacts\bin\Debug\Contacts.pdb
+G:\test\testVisualStudio2019\en attente\_Contacts\Contacts_v4\Contacts\obj\Debug\Contacts.csprojAssemblyReference.cache
+G:\test\testVisualStudio2019\en attente\_Contacts\Contacts_v4\Contacts\obj\Debug\Contacts.frmContacts.resources
+G:\test\testVisualStudio2019\en attente\_Contacts\Contacts_v4\Contacts\obj\Debug\Contacts.Properties.Resources.resources
+G:\test\testVisualStudio2019\en attente\_Contacts\Contacts_v4\Contacts\obj\Debug\Contacts.csproj.GenerateResource.cache
+G:\test\testVisualStudio2019\en attente\_Contacts\Contacts_v4\Contacts\obj\Debug\Contacts.csproj.CoreCompileInputs.cache
+G:\test\testVisualStudio2019\en attente\_Contacts\Contacts_v4\Contacts\obj\Debug\Contacts.exe
+G:\test\testVisualStudio2019\en attente\_Contacts\Contacts_v4\Contacts\obj\Debug\Contacts.pdb
+F:\00 CNED\BLOC 1 Support & mise à disposition de services informatiques\B1.2\Partie I\Sequence 3\Contacts_v4\Contacts\bin\Debug\Contacts.exe.config
+F:\00 CNED\BLOC 1 Support & mise à disposition de services informatiques\B1.2\Partie I\Sequence 3\Contacts_v4\Contacts\bin\Debug\Contacts.xml
+F:\00 CNED\BLOC 1 Support & mise à disposition de services informatiques\B1.2\Partie I\Sequence 3\Contacts_v4\Contacts\bin\Debug\Contacts.exe
+F:\00 CNED\BLOC 1 Support & mise à disposition de services informatiques\B1.2\Partie I\Sequence 3\Contacts_v4\Contacts\bin\Debug\Contacts.pdb
+F:\00 CNED\BLOC 1 Support & mise à disposition de services informatiques\B1.2\Partie I\Sequence 3\Contacts_v4\Contacts\obj\Debug\Contacts.csprojAssemblyReference.cache
+F:\00 CNED\BLOC 1 Support & mise à disposition de services informatiques\B1.2\Partie I\Sequence 3\Contacts_v4\Contacts\obj\Debug\Contacts.frmContacts.resources
+F:\00 CNED\BLOC 1 Support & mise à disposition de services informatiques\B1.2\Partie I\Sequence 3\Contacts_v4\Contacts\obj\Debug\Contacts.Properties.Resources.resources
+F:\00 CNED\BLOC 1 Support & mise à disposition de services informatiques\B1.2\Partie I\Sequence 3\Contacts_v4\Contacts\obj\Debug\Contacts.csproj.GenerateResource.cache
+F:\00 CNED\BLOC 1 Support & mise à disposition de services informatiques\B1.2\Partie I\Sequence 3\Contacts_v4\Contacts\obj\Debug\Contacts.csproj.CoreCompileInputs.cache
+F:\00 CNED\BLOC 1 Support & mise à disposition de services informatiques\B1.2\Partie I\Sequence 3\Contacts_v4\Contacts\obj\Debug\Contacts.exe
+F:\00 CNED\BLOC 1 Support & mise à disposition de services informatiques\B1.2\Partie I\Sequence 3\Contacts_v4\Contacts\obj\Debug\Contacts.pdb
+C:\00 CNED PDF 1ere annee\BLOC 1 Support & mise à disposition de services informatiques\B1.2\Partie I EMDS\Sequence 3\Contacts_v4\Contacts\bin\Debug\Contacts.exe.config
+C:\00 CNED PDF 1ere annee\BLOC 1 Support & mise à disposition de services informatiques\B1.2\Partie I EMDS\Sequence 3\Contacts_v4\Contacts\bin\Debug\Contacts.xml
+C:\00 CNED PDF 1ere annee\BLOC 1 Support & mise à disposition de services informatiques\B1.2\Partie I EMDS\Sequence 3\Contacts_v4\Contacts\bin\Debug\Contacts.exe
+C:\00 CNED PDF 1ere annee\BLOC 1 Support & mise à disposition de services informatiques\B1.2\Partie I EMDS\Sequence 3\Contacts_v4\Contacts\bin\Debug\Contacts.pdb
+C:\00 CNED PDF 1ere annee\BLOC 1 Support & mise à disposition de services informatiques\B1.2\Partie I EMDS\Sequence 3\Contacts_v4\Contacts\obj\Debug\Contacts.csproj.AssemblyReference.cache
+C:\00 CNED PDF 1ere annee\BLOC 1 Support & mise à disposition de services informatiques\B1.2\Partie I EMDS\Sequence 3\Contacts_v4\Contacts\obj\Debug\Contacts.frmContacts.resources
+C:\00 CNED PDF 1ere annee\BLOC 1 Support & mise à disposition de services informatiques\B1.2\Partie I EMDS\Sequence 3\Contacts_v4\Contacts\obj\Debug\Contacts.Properties.Resources.resources
+C:\00 CNED PDF 1ere annee\BLOC 1 Support & mise à disposition de services informatiques\B1.2\Partie I EMDS\Sequence 3\Contacts_v4\Contacts\obj\Debug\Contacts.csproj.GenerateResource.cache
+C:\00 CNED PDF 1ere annee\BLOC 1 Support & mise à disposition de services informatiques\B1.2\Partie I EMDS\Sequence 3\Contacts_v4\Contacts\obj\Debug\Contacts.csproj.CoreCompileInputs.cache
+C:\00 CNED PDF 1ere annee\BLOC 1 Support & mise à disposition de services informatiques\B1.2\Partie I EMDS\Sequence 3\Contacts_v4\Contacts\obj\Debug\Contacts.exe
+C:\00 CNED PDF 1ere annee\BLOC 1 Support & mise à disposition de services informatiques\B1.2\Partie I EMDS\Sequence 3\Contacts_v4\Contacts\obj\Debug\Contacts.pdb
